@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">NavegacaoTelas</string>
+    <string name="title_activity_segunda_tela">SegundaTela</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="forward"><![CDATA[->]]></string>
+    <string name="backward"><![CDATA[<-]]></string>
+    <string name="tela_1">Tela 1</string>
+    <string name="escolha_uma_cor_para_o_fundo">Escolha uma cor para o fundo</string>
+    <string name="nada" />
+    <string name="Red">Red</string>
+    <string name="Green">Green</string>
+    <string name="Blue">Blue</string>
+    <string name="Random">Rand</string>
+    <string name="Reset">Reset</string>
+    <string name="tela_2">Tela 2</string>
+    <string name="tela_3">Tela 3</string>
+    <string name="tela_4">Tela 4</string>
+</resources>
